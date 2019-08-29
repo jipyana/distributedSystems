@@ -5,7 +5,7 @@
   <groupId>jamila.ipyana</groupId>
   <artifactId>basic-rest-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+
 
   <name>basic-rest-service</name>
   <url>http://maven.apache.org</url>
@@ -67,7 +67,6 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-jar-plugin</artifactId>
-      <version>3.1.0</version>
       <configuration>
         <archive>
           <manifest>
